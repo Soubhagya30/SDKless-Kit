@@ -1,4 +1,4 @@
-# Razorpay SDK sample Test App for .NET
+# Razorpay SDKless Test App for .NET
 Test App for Razorpay .NET Integration
 
 This app makes direct API calls to necessary endpoints using System.Net.Http.

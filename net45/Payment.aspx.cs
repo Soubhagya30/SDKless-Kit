@@ -15,11 +15,11 @@ namespace RazorpaySampleApp
     public partial class Payment : System.Web.UI.Page
     {
         public string orderId;
-        public string key = "rzp_test_2pjQoIV7c1RY6C"; // your key ID
+        public string key = "rzp_test_************"; // your key ID
         protected void Page_Load(object sender, EventArgs e)
         {
 
-            string secret = "nWwe91xQO3NIDzJUp1mUmr9O";
+            string secret = "***********";
 
             //your order creation request
 
